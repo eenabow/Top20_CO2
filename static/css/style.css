@@ -1,0 +1,26 @@
+body {background-color: #34348c;}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #97d788;
+  color: white;
+  text-align: center;
+}
+
+img {
+  width: 50%;
+  height: auto;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 100%;
+  padding: 8px;
+  color: #8e979f;
+  outline: none;
+}
