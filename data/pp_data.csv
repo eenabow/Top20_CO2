@@ -1,0 +1,655 @@
+,TYPE,WDPAID,WDPA_PID,NAME,REP_M_AREA,STATUS_YR,PARENT_ISO3
+95,Polygon,1590,1590,Pukeamaru,0.0,2012,NZL
+96,Polygon,810,810,Te Urewera,0.0,2014,NZL
+108,Polygon,1630,1630,Dilijan,0.0,2002,ARM
+131,Polygon,4471,4471,Hajarikhil,0.0,2010,BGD
+141,Polygon,7972,7972,Ramsagar,0.0,2001,BGD
+143,Polygon,9281,9281,Teknaf,0.0,2009,BGD
+177,Polygon,15980,15980,Parati-Mirim,0.0,2008,BRA
+217,Polygon,14900,14900,Siwa,0.0,2002,EGY
+247,Polygon,11588,11588,Dolní Morava,0.0,2003,CZE
+285,Polygon,9637,9637,Yadua Taba,0.0,2004,FJI
+434,Polygon,17115,17115,Nayband,280.0,2003,IRN
+459,Polygon,17320,17320,West Hammar,0.0,2014,IRQ
+460,Polygon,17322,17322,Tharthar Lake & Dhebaeji Field,0.0,2014,IRQ
+462,Polygon,13677,13677,Discovery Bay Fish,1.683,2009,JAM
+543,Polygon,3038,3038,Kiunga Marine Conservancy,0.0,2010,KEN
+659,Polygon,9171,9171,Gola Forest National Park,0.0,2003,LBR
+660,Polygon,9176,9176,East Nimba Nature Reserve,0.0,2003,LBR
+661,Polygon,9170,9170,Grebo National Forest Park,0.0,2003,LBR
+662,Polygon,7414,7414,Wonegizi Nature Reserve,0.0,2003,LBR
+705,Polygon,2469,2469,Peak Wilderness NR,0.0,2009,LKA
+730,Polygon,9158,9158,Black River,7.97,2000,MUS
+734,Polygon,9153,9153,Port Louis,3.31,2000,MUS
+736,Polygon,9154,9154,Poudre d'Or,25.42,2000,MUS
+737,Polygon,9156,9156,Trou d'Eau Douce,5.74,2000,MUS
+763,Polygon,17999,17999,Khaudum,0.0,2008,NAM
+764,Polygon,8785,8785,Ai-Ais Hot Springs,0.0,2002,NAM
+789,Polygon,9472,9472,Woko,0.0,2005,AUS
+967,Polygon,11973,11973,Jabal Shada al-A‘la,0.0,2002,SAU
+981,Polygon,9040,9040,Labrador Nature Reserve,0.0,2002,SGP
+982,Polygon,9041,9041,Sungei Buloh Wetland Reserve,0.08,2002,SGP
+989,Polygon,5180,5180,Kangari Hills,0.0,2012,SLE
+1126,Polygon,15197,15197,Salines de Thyna,0.0,2007,TUN
+1171,Polygon,8121,8121,Selat Dampier (Raja Ampat),462.4,2009,IDN
+1230,Polygon,10357,10357,Hoang Lien,0.0,2002,VNM
+1231,Polygon,10373,10373,Sen Tam Quy,0.0,2013,VNM
+1232,Polygon,10362,10362,Muong Nhe,0.0,2005,VNM
+1234,Polygon,10364,10364,Xuan Son,0.0,2002,VNM
+1235,Polygon,10365,10365,Xuan Nha,0.0,2002,VNM
+1236,Polygon,10375,10375,Vu Quang,0.0,2002,VNM
+1237,Polygon,10346,10346,Ba Na - Nui Chua,0.0,2001,VNM
+1240,Polygon,10378,10378,Kon Ka Kinh,0.0,2011,VNM
+1241,Polygon,18033,18033,Yok Don,0.0,2001,VNM
+1242,Polygon,10379,10379,Krong Trai,0.0,2014,VNM
+1243,Polygon,10330,10330,Tan Trao,0.0,2014,VNM
+1244,Polygon,10380,10380,Chu Yang Sin,0.0,2002,VNM
+1245,Polygon,10395,10395,Lo Go-Xa Mat,0.0,2002,VNM
+1247,Polygon,10398,10398,Phu Quoc,0.0,2001,VNM
+1250,Polygon,10384,10384,Dakrong,0.0,2014,VNM
+1251,Polygon,10360,10360,Trung Khanh,0.0,2006,VNM
+1252,Polygon,10345,10345,Phong Nha-Ke Bang,0.0,2013,VNM
+1253,Polygon,10377,10377,Kon Chu Rang,0.0,2004,VNM
+1255,Polygon,10127,10127,Bac Son,0.0,2013,VNM
+1256,Polygon,10329,10329,Pac Bo,0.0,2007,VNM
+1258,Polygon,10342,10342,Con Son-Kiep Bac,0.0,2010,VNM
+1259,Polygon,10343,10343,Huong Son,0.0,2013,VNM
+1260,Polygon,10344,10344,Den Ba Trieu,0.0,2013,VNM
+1261,Polygon,10347,10347,Nui Thanh,0.0,2014,VNM
+1262,Polygon,10350,10350,Ho Lak,0.0,2013,VNM
+1263,Polygon,10351,10351,Deo Ca Hon Nua,0.0,2013,VNM
+1264,Polygon,10352,10352,Nui Ba Ra,0.0,2013,VNM
+1265,Polygon,10353,10353,Nui Ba Den,0.0,2014,VNM
+1266,Polygon,10376,10376,Cu Lao Cham,2.13,2014,VNM
+1270,Polygon,10363,10363,Sop Cop,0.0,2002,VNM
+1272,Polygon,10386,10386,Nui Ong,0.0,2012,VNM
+1273,Polygon,10113,10113,Ba Vi,0.0,2003,VNM
+1274,Polygon,10361,10361,Huu Lien,0.0,2006,VNM
+1275,Polygon,10391,10391,Nam Nung,0.0,2014,VNM
+1277,Polygon,10372,10372,Hang Kia-Pa Co,0.0,2000,VNM
+1323,Polygon,9470,9470,Tarlo River,0.0,2015,AUS
+1332,Polygon,6675,6675,Sierra de Bahoruco,0.0,2004,DOM
+1333,Polygon,181,181,Los Haitises,0.0,2004,DOM
+1334,Polygon,6674,6674,Submarino Monte Cristi,246.45,2004,DOM
+1337,Polygon,6673,6673,Jaragua,829.18,2004,DOM
+1338,Polygon,180,180,Cotubanamá (Del Este),381.78,2014,DOM
+1356,Polygon,10596,10596,Washpool,0.0,2008,AUS
+1530,Polygon,8774,8774,KKPN LAUT BANDA,0.0,2009,IDN
+1579,Polygon,353,353,Wyrrabalong,0.0,2005,AUS
+1602,Polygon,10623,10623,Georges River,0.0,2012,AUS
+1612,Polygon,8613,8613,Kepulauan Karimun Jawa,1101.173,2001,IDN
+1617,Polygon,8699,8699,Gunung Tambora Selatan,0.0,2009,IDN
+1628,Polygon,1139,1139,Bournda,0.0,2008,AUS
+1637,Polygon,16831,16831,Punta Lara,0.0,2001,ARG
+1676,Polygon,18256,18256,Ngerumekaol Spawning Area,4.81693160128,2000,PLW
+1686,Polygon,1850,1850_A,Sian Ka'an,0.0,2000,MEX
+1687,Polygon,1850,1850_B,Sian Ka'an,1396.97118,2000,MEX
+1692,Polygon,14301,14301,La Michilía,0.0,2000,MEX
+1695,Polygon,213,213,Iztaccíhuatl-Popocatépetl,0.0,2011,MEX
+1717,Polygon,5404,5404,El Veladero,0.0,2000,MEX
+1721,Polygon,4213,4213,Yves Merlet,170.8853092,2009,FRA
+1723,Polygon,5394,5394,Cumbres de Monterrey,0.0,2000,MEX
+1728,Polygon,409,409,Hinchinbrook Island,0.0,2000,AUS
+1729,Polygon,17269,17269,Wadi Al-Batin Natural Reserve,0.0,2011,KWT
+1740,Polygon,17271,17271,Umm Niqa Natural Reserve,0.0,2011,KWT
+1757,Polygon,1235,1235,Kyauk Pan Taung Wildlife Sanctuary,0.0,2013,MMR
+1758,Polygon,8027,8027,Natmataung National Park,0.0,2010,MMR
+1852,Polygon,6949,6949,Île Leprédour,0.0,2009,FRA
+1853,Polygon,18273,18273,Île Bailly,2.968081147,2009,FRA
+1886,Polygon,1127,1127,Tidbinbilla,0.0,2012,AUS
+1887,Polygon,9482,9482,Tully Gorge,0.0,2014,AUS
+1891,Polygon,356,356,Blue Mountains,0.0,2015,AUS
+1892,Polygon,391,391,Bouddi,0.0,2006,AUS
+1893,Polygon,375,375,Brisbane Water,0.0,2015,AUS
+1894,Polygon,384,384,Hat Head,0.0,2006,AUS
+1897,Polygon,2612,2612,Mimosa Rocks,0.0,2008,AUS
+1900,Polygon,363,363,Myall Lakes,0.0,2009,AUS
+1901,Polygon,362,362,New England,0.0,2012,AUS
+1903,Polygon,9468,9468,Seven Mile Beach,0.0,2013,AUS
+1904,Polygon,354,354,Sturt,0.0,2003,AUS
+1905,Polygon,2395,2395,Yuraygir,0.0,2010,AUS
+1906,Polygon,9465,9465,Bundjalung,0.0,2011,AUS
+1907,Polygon,370,370,Werrikimbe,0.0,2003,AUS
+1908,Polygon,387,387,Bald Rock,0.0,2002,AUS
+1909,Polygon,372,372,Ben Boyd,0.0,2004,AUS
+1911,Polygon,378,378,Crowdy Bay,0.0,2011,AUS
+1912,Polygon,371,371,Dharug,0.0,2008,AUS
+1913,Polygon,379,379,Dorrigo,0.0,2003,AUS
+1914,Polygon,366,366,Gibraltar Range,0.0,2003,AUS
+1915,Polygon,361,361,Guy Fawkes River,0.0,2010,AUS
+1916,Polygon,9471,9471,Thirlmere Lakes,0.0,2009,AUS
+1917,Polygon,365,365,Warrumbungle,0.0,2011,AUS
+1918,Polygon,374,374,Weddin Mountains,0.0,2006,AUS
+1919,Polygon,360,360,Mount Kaputar,0.0,2008,AUS
+1920,Polygon,9469,9469,Sydney Harbour,0.0,2001,AUS
+1922,Polygon,2613,2613,Budawang,0.0,2001,AUS
+1923,Polygon,2608,2608,Mungo,0.0,2012,AUS
+1924,Polygon,9464,9464,Border Ranges,0.0,2006,AUS
+1925,Polygon,2605,2605,Marramarra,0.0,2003,AUS
+1926,Polygon,2610,2610,Cathedral Rock,0.0,2013,AUS
+1927,Polygon,2606,2606,Deua,0.0,2014,AUS
+1928,Polygon,2607,2607,Wadbilliga,0.0,2004,AUS
+1929,Polygon,9467,9467,Nymboida,0.0,2008,AUS
+1930,Polygon,9463,9463,Boonoo Boonoo,0.0,2010,AUS
+1931,Polygon,10594,10594,Nangar,0.0,2015,AUS
+1934,Polygon,1153,1153,Barren Grounds,0.0,2009,AUS
+1937,Polygon,1147,1147,Copperhannia,0.0,2004,AUS
+1938,Polygon,1152,1152,Egan Peaks,0.0,2013,AUS
+1944,Polygon,1160,1160,Mundoonen,0.0,2007,AUS
+1945,Polygon,1138,1138,Munghorn Gap,0.0,2001,AUS
+1948,Polygon,1154,1154,Severn River,0.0,2006,AUS
+1949,Polygon,1148,1148,Sherwood,0.0,2003,AUS
+1952,Polygon,1130,1130,Pilliga,0.0,2011,AUS
+1955,Polygon,1136,1136,Winburndale,0.0,2009,AUS
+1957,Polygon,1129,1129,Yathong,0.0,2015,AUS
+1963,Polygon,12965,12965,Towra Point,0.0,2008,AUS
+1965,Polygon,10586,10586,Dananbilla,0.0,2015,AUS
+1966,Polygon,10588,10588,Lake Innes,0.0,2005,AUS
+1967,Polygon,10585,10585,Burrinjuck,0.0,2011,AUS
+1970,Polygon,10600,10600,Cutta Cutta Caves,0.0,2002,AUS
+1971,Polygon,10601,10601,Ruby Gap,0.0,2002,AUS
+1972,Polygon,2625,2625,Trephina Gorge,0.0,2009,AUS
+1973,Polygon,2627,2627,Maaroom,238.814763326167,2008,AUS
+1974,Polygon,2641,2641,Corio Bay,46.9920327848742,2009,AUS
+1975,Polygon,12956,12956,Yorkeys Creek,1.21231868079957,2009,AUS
+1978,Polygon,2630,2630,Conway,0.0,2014,AUS
+1979,Polygon,406,406,Whitsunday Islands,0.0,2000,AUS
+1981,Polygon,2632,2632,Flinders Group (Cape York Peninsula Aboriginal Land),0.0,2013,AUS
+1982,Polygon,404,404,Bowling Green Bay,0.0,2010,AUS
+1984,Polygon,460,460,Lizard Island,0.0,2000,AUS
+1985,Polygon,444,444,Barron Gorge,0.0,2010,AUS
+1987,Polygon,410,410,Cape Melville (Cape York Peninsula Aboriginal Land),0.0,2013,AUS
+1988,Polygon,440,440,Mount Walsh,0.0,2009,AUS
+1991,Polygon,442,442,Mount Aberdeen,0.0,2010,AUS
+1993,Polygon,456,456,Orpheus Island,0.0,2000,AUS
+1994,Polygon,435,435,Castle Tower,0.0,2010,AUS
+1995,Polygon,451,451,Clump Mountain,0.0,2010,AUS
+1996,Polygon,462,462,Hull River,0.0,2008,AUS
+1997,Polygon,9477,9477,Eubenangee Swamp,0.0,2003,AUS
+1999,Polygon,454,454,Russell River,0.0,2008,AUS
+2000,Polygon,426,426,Southwood,0.0,2001,AUS
+2002,Polygon,441,441,Porcupine Gorge,0.0,2004,AUS
+2003,Polygon,463,463,Grey Peaks,0.0,2015,AUS
+2005,Polygon,436,436,Mazeppa,0.0,2001,AUS
+2006,Polygon,447,447,Endeavour River,0.0,2009,AUS
+2007,Polygon,432,432,Eurimbula,0.0,2009,AUS
+2011,Polygon,428,428,Blackdown Tableland,0.0,2006,AUS
+2012,Polygon,9475,9475,Littabella,0.0,2009,AUS
+2014,Polygon,12912,12912,Meunga Creek,4.3195212180407,2001,AUS
+2018,Polygon,510,510,Deep Creek,0.0,2010,AUS
+2019,Polygon,489,489,Mount Remarkable,0.0,2000,AUS
+2020,Polygon,2665,2665,Nullarbor,0.0,2006,AUS
+2027,Polygon,478,478,Billiatt,0.0,2008,AUS
+2035,Polygon,2672,2672,Dudley,0.0,2010,AUS
+2038,Polygon,494,494,Gum Lagoon,0.0,2002,AUS
+2045,Polygon,4681,4681,Seal Bay,0.0,2010,AUS
+2053,Polygon,2669,2669,Munyaroo,0.0,2009,AUS
+2059,Polygon,12913,12913,Murray River,0.0,2009,AUS
+2060,Polygon,15051,15051,Nehalim Gedolim (harhava 1),0.0,2008,ISR
+2061,Polygon,4698,4698,Chalky Island,0.0,2000,AUS
+2062,Polygon,4699,4699,Egg Islands,0.0,2000,AUS
+2063,Polygon,4700,4700,Gull Island,0.0,2000,AUS
+2064,Polygon,5330,5330,Mile Island,0.0,2000,AUS
+2065,Polygon,5327,5327,Lackrana,0.0,2002,AUS
+2066,Polygon,2678,2678,Logan Lagoon,0.0,2002,AUS
+2067,Polygon,5249,5249,Medeas Cove,0.0,2012,AUS
+2070,Polygon,4693,4693,Petrel Islands,0.0,2007,AUS
+2071,Polygon,5333,5333,Port Cygnet,0.0,2007,AUS
+2072,Polygon,2412,2412,Southwest,0.0,2012,AUS
+2073,Polygon,5336,5336,Tathams Lagoon,0.0,2000,AUS
+2077,Polygon,4694,4694,Stack Island,0.0,2007,AUS
+2079,Polygon,517,517,Ben Lomond,0.0,2000,AUS
+2080,Polygon,522,522,Maria Island,0.0,2007,AUS
+2081,Polygon,525,525,Narawntapu,0.0,2000,AUS
+2082,Polygon,527,527,Rocky Cape,0.0,2002,AUS
+2099,Polygon,5304,5304,East Risdon,0.0,2001,AUS
+2101,Polygon,5236,5236,Fairy Glade,0.0,2011,AUS
+2106,Polygon,1168,1168,Lavinia,0.0,2011,AUS
+2108,Polygon,1170,1170,Lime Bay,0.0,2001,AUS
+2109,Polygon,5242,5242,Hellyer Gorge,0.0,2008,AUS
+2110,Polygon,5244,5244,Holwell Gorge,0.0,2011,AUS
+2113,Polygon,5255,5255,Mount Montgomery,0.0,2011,AUS
+2114,Polygon,5260,5260,Roger River,0.0,2008,AUS
+2115,Polygon,5267,5267,The Nut,0.0,2008,AUS
+2120,Polygon,5266,5266,Tessellated Pavement,0.0,2008,AUS
+2123,Polygon,2690,2690,Bronzewing B.R.,0.0,2002,AUS
+2124,Polygon,2694,2694,Mount Bolangum N.C.R.,0.0,2010,AUS
+2128,Polygon,533,533,Hattah - Kulkyne,0.0,2011,AUS
+2129,Polygon,549,549,The Lakes,0.0,2001,AUS
+2131,Polygon,2710,2710,French Island,0.0,2002,AUS
+2134,Polygon,2403,2403,Port Campbell,0.0,2008,AUS
+2136,Polygon,2029,2029,Croajingolong,0.0,2013,AUS
+2137,Polygon,10607,10607,Grampians,0.0,2001,AUS
+2146,Polygon,2687,2687,Gippsland Lakes Coastal Park,0.0,2001,AUS
+2149,Polygon,562,562_B,Stirling Range,0.0,2011,AUS
+2154,Polygon,579,579,Yanchep,0.0,2002,AUS
+2155,Polygon,570,570_B,Yalgorup,0.0,2001,AUS
+2156,Polygon,570,570_C,Yalgorup,0.0,2002,AUS
+2187,Polygon,12946,12946,Half Moon Creek,2.08625590737857,2001,AUS
+2188,Polygon,12949,12949,Maroochy,6.14756201563852,2014,AUS
+2193,Polygon,12921,12921,Tully River,6.55826528469155,2001,AUS
+2194,Polygon,2646,2646,Tin Can Inlet,15.1702529762387,2008,AUS
+2197,Polygon,12998,12998,Garig Gunak Barlu,2233.63567546319,2002,AUS
+2198,Polygon,12947,12947,Halifax,53.0649947440533,2003,AUS
+2199,Polygon,12903,12903,Burrum,33.5667285276919,2015,AUS
+2200,Polygon,12919,12919,Silver Plains,521.11830435623,2010,AUS
+2201,Polygon,12910,12910,Kippa-Ring,8.17962972398253,2012,AUS
+2203,Polygon,12945,12945,Fraser Island,435.856232530778,2008,AUS
+2204,Polygon,12936,12936,Barr Creek,0.63499281503015,2001,AUS
+2205,Polygon,2648,2648,Noosa River (Rev.2),59.8022166655334,2008,AUS
+2206,Polygon,12917,12917,Rodds Harbour,118.499348290863,2003,AUS
+2207,Polygon,12904,12904,Colosseum Inlet,100.013030061589,2003,AUS
+2208,Polygon,12937,12937,Bohle River,47.8875254037244,2012,AUS
+2209,Polygon,12905,12905,Dallachy Creek,16.8918225709927,2001,AUS
+2210,Polygon,12948,12948,Kolan River,18.8567338972979,2001,AUS
+2211,Polygon,12906,12906,Escape River,275.182886482788,2010,AUS
+2212,Polygon,12940,12940,Cattle-Palm Creek,71.2995403097915,2011,AUS
+2216,Polygon,2650,2650,Pumicestone Channel,46.1198977863769,2011,AUS
+2219,Polygon,2628,2628_D,Great Barrier Reef,15027.2921282765,2004,AUS
+2220,Polygon,2628,2628_E,Great Barrier Reef,213769.414189332,2004,AUS
+2221,Polygon,2628,2628_A,Great Barrier Reef,859.525188033863,2004,AUS
+2222,Polygon,2628,2628_B,Great Barrier Reef,114309.849699496,2004,AUS
+2223,Polygon,2645,2645,Kauri Creek,64.9168089872432,2008,AUS
+2224,Polygon,12920,12920,Temple Bay,193.988775228127,2010,AUS
+2227,Polygon,12923,12923,Wreck Creek,12.2111543821773,2001,AUS
+2270,Polygon,10846,10846,Estação Ecológica De Aiuaba,0.0,2001,BRA
+2308,Polygon,15945,15945,Parque Estadual Do Forno Grande,0.0,2013,BRA
+2348,Polygon,14915,14915,Yehuddiya-Gamla,0.0,2003,ISR
+2350,Polygon,14927,14927,Parq Ha-Yarden (Golan),0.0,2003,ISR
+2374,Polygon,14961,14961,Nahal Bezet (harhava),0.0,2009,ISR
+2379,Polygon,14964,14964,Hof Rosh Ha-Niqra,0.0,2003,ISR
+2398,Polygon,14993,14993,Hof Galim,0.0,2013,ISR
+2401,Polygon,15003,15003,Nahal Poleg,0.0,2011,ISR
+2402,Polygon,14996,14996,Nahal HaTaninim,0.0,2015,ISR
+2403,Polygon,13744,13744,Yam Dor Ha-Bonim,0.0,2002,ISR
+2424,Polygon,15017,15017,Midbar Yehuda,0.0,2003,ISR
+2442,Polygon,305,305,San Miguel,0.0,2010,URY
+2492,Polygon,1240,1240,Dja,0.0,2007,CMR
+2495,Polygon,1245,1245,Lobéké,0.0,2001,CMR
+2499,Polygon,1242,1242,Campo-Ma'an,0.0,2000,CMR
+2541,Polygon,9186,9186,Kaiso Tonya,0.0,2002,UGA
+2557,Polygon,7913,7913,Cajas,0.0,2003,ECU
+2559,Polygon,2238,2238,Manglares Churute,0.0,2001,ECU
+2561,Polygon,183,183,Cayambe Coca,0.0,2010,ECU
+2562,Polygon,188,188,Sangay,0.0,2004,ECU
+2678,Polygon,15089,15089,Ifrane National Park,0.0,2004,MAR
+2679,Polygon,17742,17742,Talassemtane National Park,0.0,2004,MAR
+2680,Polygon,17710,17710,Merja Zerga,0.0,2014,MAR
+2688,Polygon,12509,12509,Colima,0.0,2007,SLV
+2707,Polygon,16846,16846,Copo,0.0,2000,ARG
+2710,Polygon,12231,12231,Dolphin Park,0.002784,2007,BLZ
+2761,Polygon,12494,12494,El Imposible,0.0,2010,SLV
+2766,Polygon,12524,12524,San Diego y San Felipe Las Barras,0.0,2009,SLV
+2767,Polygon,9638,9638,Parque Nacional Montecristo,0.0,2008,SLV
+2781,Polygon,5563,5563,Zurndorfer Eichenwald Und Hutweide,0.0,2008,AUT
+2809,Polygon,5443,5443,Naturschutzgebiet Vilsalpsee,0.0,2002,AUT
+2869,Polygon,5439,5439,Naturschutzgebiet Valsertal,0.0,2001,AUT
+2870,Polygon,5441,5441,Naturschutzgebiet Antelsberg Bei Tarrenz,0.0,2002,AUT
+2871,Polygon,5456,5456,Augebiet Schwöbing,0.0,2001,AUT
+2873,Polygon,4343,4343,Naturschutzgebiet Kaisergebirge,0.0,2013,AUT
+2897,Polygon,5615,5615,Viroin,0.0,2004,BEL
+2898,Polygon,7180,7180,Vague Des Gomhets,0.0,2005,BEL
+2899,Polygon,1221,1221,Hautes Fagnes,0.0,2000,BEL
+2901,Polygon,5611,5611,Claire- Fontaine,0.0,2000,BEL
+2982,Polygon,3380,3380,Larnaca Saltwater Lake,0.0,2001,CYP
+2983,Polygon,3381,3381,Limassol Lake (Akrotiri),0.0,2003,CYP
+2985,Polygon,14465,14465,Krägen-Riss,0.0,2004,DEU
+2986,Polygon,14524,14524,Schwarzwassertal,0.0,2003,DEU
+2988,Polygon,14399,14399,Rietzer See,0.0,2004,DEU
+2992,Polygon,7109,7109,"Nsg Bienener Altrhein, Millinger Meer Und Hurler Meer",0.0,2006,DEU
+2993,Polygon,14326,14326,Göldenitzer Moor,0.0,2008,DEU
+2995,Polygon,14525,14525,Mothäuser Heide,0.0,2003,DEU
+2998,Polygon,14518,14518,Döbener Wald,0.0,2004,DEU
+3001,Polygon,6973,6973,Heidenhäuschen,0.0,2012,DEU
+3002,Polygon,14423,14423,Spannteich Knappenrode,0.0,2005,DEU
+3010,Polygon,14457,14457,Teufelsmauer Und Bode Nordöstlich Thale,0.0,2012,DEU
+3013,Polygon,14408,14408,Pinnower See,0.0,2002,DEU
+3038,Polygon,14351,14351,Krakower Obersee,0.0,2000,DEU
+3055,Polygon,14531,14531,Großer Kranichsee,0.0,2008,DEU
+3057,Polygon,14537,14537,Hohe Dubrau,0.0,2002,DEU
+3059,Polygon,14407,14407,Felchowseegebiet,0.0,2003,DEU
+3061,Polygon,14343,14343,"Peenemünder Haken, Struck Und Ruden - Gebietsteil A",0.0,2008,DEU
+3074,Polygon,14395,14395,Gülper See,0.0,2010,DEU
+3075,Polygon,14392,14392,Thymen,0.0,2012,DEU
+3081,Polygon,14526,14526,Hermannsdorfer Wiesen,0.0,2007,DEU
+3102,Polygon,14466,14466,Crassensee,0.0,2004,DEU
+3104,Polygon,14532,14532,Seußlitzer Und Gauernitzer Gründe,0.0,2013,DEU
+3109,Polygon,14461,14461,Diebziger Busch,0.0,2004,DEU
+3110,Polygon,14510,14510,Windberg Freital,0.0,2001,DEU
+3113,Polygon,14536,14536,Niederspreer Teichgebiet Und Kleine Heide Hähnichen,0.0,2011,DEU
+3115,Polygon,14360,14360,Schaalelauf,0.0,2007,DEU
+3120,Polygon,14470,14470,Untere Mulde,0.0,2004,DEU
+3135,Polygon,14453,14453,Mahlpfuhler Fenn,0.0,2002,DEU
+3142,Polygon,4393,4393,Otternhagener Moor,0.0,2015,DEU
+3156,Polygon,14462,14462,Neolith-Teich,0.0,2004,DEU
+3158,Polygon,14366,14366,Nonnenhof,0.0,2002,DEU
+3175,Polygon,7011,7011,Nsg Siebengebirge <Su>,0.0,2005,DEU
+3199,Polygon,4395,4395,Nsg Wahner Heide Im Rhein-Sieg-Kreis,0.0,2007,DEU
+3201,Polygon,14477,14477,Wulfener Bruchwiesen,0.0,2004,DEU
+3202,Polygon,14527,14527,Steinbach,0.0,2008,DEU
+3203,Polygon,11800,11800,Sächsische Schweiz,0.0,2003,DEU
+3241,Polygon,13364,13364,Castala,0.0,2000,ESP
+3250,Polygon,151243,151243,El Cabo Peñas,0.0,2012,ESP
+3268,Polygon,4820,4820,Monfragüe,0.0,2007,ESP
+3302,Polygon,1647,1647,Matsalu Rahvuspark,0.0,2006,EST
+3303,Polygon,1649,1649,Nigula Looduskaitseala,0.0,2006,EST
+3305,Polygon,1650,1650,Viidumäe Looduskaitseala,0.0,2007,EST
+3306,Polygon,15776,15776,Endla Looduskaitseala,0.0,2006,EST
+3307,Polygon,1646,1646,Lahemaa Rahvuspark,0.0,2015,EST
+3942,Polygon,151051,151051,Pirunpesän Luonnonsuojelualue,0.0,2005,FIN
+3976,Polygon,151052,151052,Tiirismaan Puronvarsilehdon Luonnonsuojelualue,0.0,2005,FIN
+4145,Polygon,655,655,Pallas-Yllästunturin Kansallispuisto,0.0,2004,FIN
+4146,Polygon,657,657,Pyhä-Luoston Kansallispuisto,0.0,2005,FIN
+4357,Polygon,11099,11099,Portrush,0.0,2010,GBR
+4526,Polygon,1685,1685,Žuvinto Biosferos Rezervatas,0.0,2002,LTU
+4540,Polygon,11090,11090,Gower Coast,0.0,2002,GBR
+4556,Polygon,11081,11081,Cors Bodeilio,0.0,2013,GBR
+4558,Polygon,11083,11083,Cors Erddreiniog,0.0,2013,GBR
+4559,Polygon,11084,11084,Cors Geirch,0.0,2013,GBR
+5093,Polygon,139436,139436,Coedydd Nanmor,0.0,2001,GBR
+5351,Polygon,11116,11116,Killard,0.0,2010,GBR
+5362,Polygon,136838,136838,Blagrove Common,0.0,2000,GBR
+5831,Polygon,137467,137467,"Pry And Bottom Meadows, Mid Mossdale",0.0,2000,GBR
+6087,Polygon,11085,11085,Craig Cerrig Gleisiad A Fan Frynych,0.0,2002,GBR
+6219,Polygon,11133,11133,Ballynahone Bog,0.0,2000,GBR
+6530,Polygon,137492,137492,Peter'S Pit,0.0,2000,GBR
+7511,Polygon,9906,9906,Femundslia,0.0,2003,NOR
+7681,Polygon,684,684,Þingvellir,0.0,2004,ISL
+7682,Polygon,1552,1552,Kringilsárrani,0.0,2003,ISL
+7683,Polygon,1553,1553,Surtsey,0.0,2006,ISL
+7689,Polygon,4432,4432,Húsafellsskógur,0.0,2001,ISL
+7690,Polygon,4433,4433,Ingólfshöfði,0.0,2006,ISL
+7713,Polygon,4461,4461,Álfaborg,0.0,2003,ISL
+7860,Polygon,6084,6084,Riserva Regionale San Giuliano,0.0,2000,ITA
+7903,Polygon,16265,16265,Kuebebierg,0.0,2002,LUX
+7908,Polygon,16368,16368,Brill,0.0,2007,LUX
+7922,Polygon,15603,15603,Markovi Kuli,0.0,2006,MKD
+7929,Polygon,11707,11707,Il-Gżejjer Ta' Filfa,0.0,2002,MLT
+7945,Polygon,14816,14816,Il-Qiegħ Tal-Wied Minn Ta' Blankas Sal-Bajja Ta' Mġarr Ix-Xini,0.0,2001,MLT
+7947,Polygon,14819,14819,"Wied Ix-Xlendi, Wied Il-Lunzjata U L-Inħawi Tagħhom, Fil-Limiti Ta' Kerċem, Il-Munxar, Fontana U R-Rabat (Għawdex)",0.0,2000,MLT
+7950,Polygon,14831,14831,"Il-Gżejjer Ta' San Pawl (Selmunett), Limiti Tal-Mellieħa",0.0,2002,MLT
+7951,Polygon,14834,14834,"Ġebel Ta' Bejn Il-Kmiemen, Limiti Ta' Għajnsielem",0.0,2002,MLT
+7952,Polygon,15212,15212,"Il-Ġebla Tal-Ġeneral, Limiti Ta' San Lawrenz",0.0,2002,MLT
+7957,Polygon,12328,12328,Grytdalen,0.0,2014,NOR
+7964,Polygon,3200,3200,Nord-Fugløya,0.0,2004,NOR
+7966,Polygon,3202,3202,Øra,0.0,2010,NOR
+7972,Polygon,6170,6170,Kurefjorden,0.0,2010,NOR
+7976,Polygon,832,832,Øvre Pasvik,0.0,2003,NOR
+7977,Polygon,3207,3207,Karlsøyvær,0.0,2002,NOR
+7984,Polygon,6173,6173,Ilene,0.0,2012,NOR
+7985,Polygon,9910,9910,Jærstrendene,0.0,2003,NOR
+7989,Polygon,830,830,Stabbursdalen,0.0,2002,NOR
+7996,Polygon,828,828,Blåfjella-Skjækerfjella/Låarte-Skæhkere,0.0,2015,NOR
+7997,Polygon,3203,3203,Smoldalen,0.0,2005,NOR
+8000,Polygon,1975,1975,Tatransky,0.0,2003,SVK
+8001,Polygon,12159,12159,Biele Karpaty,0.0,2003,SVK
+8003,Polygon,6172,6172,Presterødkilen,0.0,2012,NOR
+8008,Polygon,824,824,Øvre Dividal,0.0,2006,NOR
+8010,Polygon,6137,6137,Tautra,0.0,2003,NOR
+8012,Polygon,826,826,Femundsmarka,0.0,2003,NOR
+8015,Polygon,825,825,Rondane,0.0,2003,NOR
+8016,Polygon,4657,4657,Jotunheimen,0.0,2014,NOR
+8017,Polygon,9911,9911,Utladalen,0.0,2014,NOR
+8019,Polygon,823,823,Børgefjell/Byrkije,0.0,2003,NOR
+8025,Polygon,833,833,Gutulia,0.0,2004,NOR
+8027,Polygon,9890,9890,Kvisleflået Og Hovdlia,0.0,2005,NOR
+8127,Polygon,11366,11366,Jezioro Długie,0.0,2009,POL
+8173,Polygon,11272,11272,Woskownica,0.0,2013,POL
+8309,Polygon,9388,9388,Corbu - Nuntași - Histria,0.0,2000,ROU
+8313,Polygon,14580,14580,Turbăria Lăptici,0.0,2000,ROU
+8314,Polygon,14586,14586,Izvorul De La Corbii Ciungi,0.0,2000,ROU
+8325,Polygon,9378,9378,Cheile Turzii,0.0,2000,ROU
+8335,Polygon,14600,14600,Peștera Tăușoare,0.0,2000,ROU
+8339,Polygon,9375,9375,Piatra Craiului,0.0,2000,ROU
+8342,Polygon,11775,11775,Muntele Tâmpa,0.0,2000,ROU
+8343,Polygon,11779,11779,Pădurea Bogății,0.0,2000,ROU
+8352,Polygon,11772,11772,Pădurea Canaraua Fetii,0.0,2000,ROU
+8355,Polygon,11184,11184,Complexul Sacalin Zătoane,0.0,2000,ROU
+8356,Polygon,9383,9383,Pădurea Valea Fagilor,0.0,2000,ROU
+8357,Polygon,14605,14605,Rezervația Geologică Agighiol,0.0,2000,ROU
+8359,Polygon,11763,11763,Pădurea Hârboanca,0.0,2000,ROU
+8361,Polygon,11155,11155,Parcul Natural Comana,0.0,2005,ROU
+8365,Polygon,11765,11765,Pădurea Tismana - Pocruia,0.0,2000,ROU
+8366,Polygon,11158,11158,Tinovul Luci,0.0,2000,ROU
+8368,Polygon,14610,14610,Mlaștina Valea De Mijloc,0.0,2000,ROU
+8369,Polygon,11756,11756,Mlaștina Borșaroș - Sâncrăieni,0.0,2000,ROU
+8370,Polygon,9372,9372,Lacul Sfânta Ana,0.0,2000,ROU
+8371,Polygon,14597,14597,Tinovul Mohoș,0.0,2000,ROU
+8378,Polygon,11760,11760,Pădurea Snagov,0.0,2000,ROU
+8385,Polygon,11178,11178,Cheile Bicazului,0.0,2000,ROU
+8389,Polygon,14591,14591,Muntele De Sare Slănic Prahova,0.0,2000,ROU
+8392,Polygon,11788,11788,Mlaștina Vermeș,0.0,2000,ROU
+8397,Polygon,11161,11161,Tinovul Găina - Lucina,0.0,2000,ROU
+8399,Polygon,11770,11770,Răchitișul Mare,0.0,2000,ROU
+8419,Polygon,16401,16401,Golija,0.0,2001,SRB
+8420,Polygon,16406,16406,Jegricka,0.0,2005,SRB
+8428,Polygon,16396,16396,Tikvara,0.0,2015,SRB
+8429,Polygon,16408,16408,Kamaras,0.0,2005,SRB
+8432,Polygon,14285,14285,Vrsatske Bradla,0.0,2004,SVK
+8434,Polygon,16759,16759,Krasin,0.0,2004,SVK
+8436,Polygon,14119,14119,Sulovske Skaly,0.0,2004,SVK
+8439,Polygon,16782,16782,Zlatniansky Luh,0.0,2004,SVK
+8442,Polygon,16780,16780,Vrsok,0.0,2004,SVK
+8443,Polygon,14766,14766,Burdov,0.0,2004,SVK
+8444,Polygon,16771,16771,Szaboova Skala,0.0,2004,SVK
+8445,Polygon,16769,16769,Kamenne More,0.0,2004,SVK
+8446,Polygon,16781,16781,Kameninske Slanisko,0.0,2004,SVK
+8447,Polygon,16770,16770,Bralce,0.0,2004,SVK
+8449,Polygon,16767,16767,Kasivarova,0.0,2004,SVK
+8450,Polygon,16778,16778,Sramkova,0.0,2004,SVK
+8451,Polygon,14111,14111,Rozsutec,0.0,2004,SVK
+8456,Polygon,14129,14129,Sutovska Dolina,0.0,2004,SVK
+8457,Polygon,16783,16783,Sedliska,0.0,2004,SVK
+8458,Polygon,14141,14141,Sitno,0.0,2004,SVK
+8459,Polygon,16765,16765,Devinska Kobyla,0.0,2004,SVK
+8460,Polygon,16643,16643,Holy Vrch,0.0,2004,SVK
+8461,Polygon,14118,14118,Zadna Polana,0.0,2004,SVK
+8462,Polygon,14288,14288,Prosiecka Dolina,0.0,2004,SVK
+8463,Polygon,14136,14136,Choc,0.0,2004,SVK
+8465,Polygon,14287,14287,Boky,0.0,2004,SVK
+8466,Polygon,16784,16784,Janosikova Skala,0.0,2004,SVK
+8467,Polygon,16772,16772,Badinsky Prales,0.0,2004,SVK
+8468,Polygon,14133,14133,Stuzica,0.0,2004,SVK
+8469,Polygon,14286,14286,Vtacnik,0.0,2004,SVK
+8470,Polygon,14132,14132,Tlsta,0.0,2004,SVK
+8471,Polygon,14135,14135,Horny Les,0.0,2004,SVK
+8473,Polygon,14130,14130,Gombasecka Jaskyna,0.0,2011,SVK
+8475,Polygon,16775,16775,Priboj,0.0,2004,SVK
+8476,Polygon,14123,14123,Demanovske Jaskyne,0.0,2009,SVK
+8477,Polygon,14116,14116,Ohniste,0.0,2004,SVK
+8478,Polygon,14138,14138,Janska Dolina,0.0,2004,SVK
+8479,Polygon,14125,14125,Salatin,0.0,2004,SVK
+8480,Polygon,14122,14122,Demanovska Dolina,0.0,2004,SVK
+8483,Polygon,14114,14114,Dumbier,0.0,2004,SVK
+8485,Polygon,12155,12155,Male Karpaty,0.0,2001,SVK
+8486,Polygon,12161,12161,Polana,0.0,2001,SVK
+8492,Polygon,14146,14146,Cerova Vrchovina,0.0,2001,SVK
+8495,Polygon,4376,4376,Slovensky Kras,0.0,2002,SVK
+8497,Polygon,4378,4378,Velka Fatra,0.0,2002,SVK
+8498,Polygon,12160,12160,Horna Orava,0.0,2003,SVK
+8499,Polygon,12157,12157,Vychodne Karpaty,0.0,2001,SVK
+8500,Polygon,9776,9776,Sur,0.0,2009,SVK
+8515,Polygon,10409,10409,2000603 Sydbillingens Platå,0.0,2006,SWE
+8516,Polygon,151517,151517,2002698 Bokenäs,0.0,2006,SWE
+8521,Polygon,10429,10429,2000795 Rörö,0.0,2008,SWE
+8527,Polygon,151512,151512,2000594 Bockaskedeåsen-Toran,0.0,2007,SWE
+8528,Polygon,151370,151370,2001905 Älgberget,0.0,2009,SWE
+8530,Polygon,3997,3997,2000931 Skuleskogen,0.0,2009,SWE
+8531,Polygon,151348,151348,2001389 Parkudden-Lövsta,0.0,2010,SWE
+8532,Polygon,151519,151519,2001728 Bokö,0.0,2007,SWE
+8537,Polygon,151444,151444,2000858 Bälingeberget,0.0,2004,SWE
+8541,Polygon,151523,151523,2000573 Bölets Ängar,0.0,2008,SWE
+8553,Polygon,151504,151504,2000465 Bläcktärnsjön,0.0,2010,SWE
+8558,Polygon,151468,151468,2000813 Bestorp,0.0,2012,SWE
+8566,Polygon,151351,151351,2002582 Teleborg,0.0,2012,SWE
+8569,Polygon,151463,151463,2002235 Bergholmen-Stora Kalvö,0.0,2010,SWE
+8573,Polygon,151480,151480,2000249 Björka Lertag,0.0,2012,SWE
+8581,Polygon,151451,151451,2000556 Baståsen,0.0,2013,SWE
+8582,Polygon,151423,151423,2000862 Ätnarova,0.0,2009,SWE
+8594,Polygon,10420,10420,2000875 Stora Nassa,0.0,2013,SWE
+8604,Polygon,151487,151487,2000197 Björskogsnäs,0.0,2008,SWE
+8605,Polygon,151400,151400,2001863 Årby,0.0,2011,SWE
+8611,Polygon,6899,6899,2001729 Svensksundsviken,0.0,2015,SWE
+8630,Polygon,1395,1395,2002203 Bullerö,0.0,2008,SWE
+8633,Polygon,151457,151457,2002691 Beijershamn,0.0,2009,SWE
+8638,Polygon,1385,1385,2000861 Serri,0.0,2005,SWE
+8639,Polygon,10411,10411,2002163 Värmlandsskärgården,0.0,2014,SWE
+8642,Polygon,151366,151366,2002725 Alby,0.0,2002,SWE
+8647,Polygon,151482,151482,2001380 Björkenäs,0.0,2008,SWE
+8648,Polygon,151485,151485,2001280 Björknäs Domänreservat,0.0,2009,SWE
+8662,Polygon,10430,10430,2001695 Väggö,0.0,2010,SWE
+8666,Polygon,151371,151371,2002252 Ålhults Urskog,0.0,2007,SWE
+8668,Polygon,151350,151350,2002030 Tattby,0.0,2005,SWE
+8671,Polygon,151419,151419,2000354 Assbergs Raviner,0.0,2000,SWE
+8684,Polygon,10433,10433,2002222 Brattforsheden,0.0,2004,SWE
+8686,Polygon,151431,151431,2001562 Bäckhalladalen,0.0,2003,SWE
+8691,Polygon,151522,151522,2001081 Bölarp,0.0,2007,SWE
+8692,Polygon,10436,10436,2000380 Halle- Och Hunnebergs Platåer,0.0,2008,SWE
+8696,Polygon,151497,151497,2000653 Björntjärnsskogen,0.0,2013,SWE
+8699,Polygon,151511,151511,2001498 Boarps Hed,0.0,2006,SWE
+8706,Polygon,151404,151404,2001711 Arnö,0.0,2008,SWE
+8716,Polygon,5004,5004,Aldabra Atoll,157.71849813639,2010,SYC
+8720,Polygon,151439,151439,2001668 Balberget,0.0,2006,SWE
+8724,Polygon,151387,151387,2000895 Andersön,0.0,2013,SWE
+8731,Polygon,1388,1388,2001548 Klingavälsåns Dalgång,0.0,2013,SWE
+8735,Polygon,151509,151509,2000293 Bleckbergens Urskog,0.0,2011,SWE
+8736,Polygon,6916,6916,2000933 Hamra,0.0,2011,SWE
+8737,Polygon,151477,151477,2000967 Bjärekustens Naturreservat,0.0,2013,SWE
+8746,Polygon,151464,151464,2001286 Bergmyrberget,0.0,2010,SWE
+8751,Polygon,151516,151516,2000466 Bodagrottorna,0.0,2006,SWE
+8778,Polygon,151410,151410,2001754 Åsabackarna,0.0,2001,SWE
+8786,Polygon,151399,151399,2002392 Araby,0.0,2005,SWE
+8788,Polygon,151406,151406,2002683 Arontorp,0.0,2009,SWE
+8793,Polygon,151478,151478,2001801 Bjersjöholms Ädellövskog,0.0,2010,SWE
+8805,Polygon,346,346,Mali I Tomorrit,0.0,2012,ALB
+8806,Polygon,344,344,Mali I Dajtit,0.0,2006,ALB
+8807,Polygon,11661,11661,Kune-Vain-Tale,0.0,2010,ALB
+8808,Polygon,11663,11663,Patok-Fushekuqe-Ishem,0.0,2010,ALB
+8811,Polygon,4679,4679,Divjake-Karavasta,0.0,2007,ALB
+8845,Polygon,12650,12650,Bosawas,0.0,2001,NIC
+8846,Polygon,234,234,Cerro Saslaya,0.0,2001,NIC
+8854,Polygon,12669,12669,Cerro Kilambé,0.0,2001,NIC
+8855,Polygon,12668,12668,Cerro Bana Cruz ,0.0,2001,NIC
+8857,Polygon,12654,12654,Macizos de Peñas Blancas,0.0,2001,NIC
+8867,Polygon,1122,1122,Band-i-Amir National Park,0.0,2009,AFG
+8906,Polygon,13632,13632,Cayo Largo,680.35,2001,CUB
+8907,Polygon,13580,13580,Cerro Galano,0.0,2001,CUB
+8908,Polygon,13615,13615,Sierra del Chorrillo,0.0,2001,CUB
+8910,Polygon,13444,13444,Baitiquirí,15.49,2010,CUB
+8911,Polygon,13582,13582,Pico La Bayamesa,0.0,2012,CUB
+8914,Polygon,2124,2124,Galloway and South Ayrshire Biosphere,0.0,2012,GBR
+8918,Polygon,2126,2126,North Devon Biosphere,0.0,2002,GBR
+8919,Polygon,2123,2123,Biosffer Dyfi,0.0,2009,GBR
+8930,Polygon,12564,12564,Punta de Manabique,294.76,2005,GTM
+8936,Polygon,5086,5086,Boucle du Baoulé Biosphere Reserve,0.0,2001,MLI
+8955,Polygon,9035,9035_B,Quirimbas,0.0,2002,MOZ
+8959,Polygon,801,801_B,Gorongoza,0.0,2010,MOZ
+9020,Polygon,4035,4035,Camdeboo National Park,0.0,2005,ZAF
+9040,Polygon,4766,4766,Happy Rest Nature Reserve,0.0,2014,ZAF
+9078,Polygon,17831,17831,Coiba,2017.81845,2004,PAN
+9128,Polygon,9444,9444,Río Simpsom,0.0,2000,CHL
+9167,Polygon,16248,16248,"State Nature Sanctuary ""Karatal Sands"" (botanical) ",0.0,2001,KAZ
+9168,Polygon,17416,17416,Tarbagatay State Nature Sanctuary (zoological),0.0,2001,KAZ
+9169,Polygon,16249,16249,Kogashik State Nature Sanctuary (botanical),0.0,2001,KAZ
+9170,Polygon,15878,15878,Belagash State Nature Sanctuary (zoological),0.0,2001,KAZ
+9171,Polygon,16231,16231,Kyzylaray State Nature Sanctuary (zoological),0.0,2001,KAZ
+9172,Polygon,16228,16228,State Nature Sanctuary Karaagash (zoological),0.0,2001,KAZ
+9173,Polygon,16242,16242,Timurskiy State Nature Sanctuary (botanical),0.0,2001,KAZ
+9174,Polygon,16247,16247,"State Nature Sanctuary ""Karakonuz Tract"" (botanical)",0.0,2001,KAZ
+9175,Polygon,16234,16234,Akdala State Nature Sanctuary (botanical),0.0,2001,KAZ
+9176,Polygon,16246,16246,"State Nature Sanctuary ""Berkara Tract"" (complex)",0.0,2001,KAZ
+9177,Polygon,16251,16251,Orlinogor State Nature Sanctuary (botanical),0.0,2001,KAZ
+9178,Polygon,16241,16241,State Nature Sanctuary Zadarya (botanical),0.0,2001,KAZ
+9179,Polygon,16233,16233,Ulytau State Nature Sanctuary (zoological),0.0,2001,KAZ
+9221,Polygon,3961,3961,Rajang Mangrove National Park,0.0,2000,MYS
+9223,Polygon,9817,9817,Santubong National Park,0.0,2007,MYS
+9227,Polygon,3468,3468,Ulu Kalumpang,0.0,2013,MYS
+9250,Polygon,786,786,Similajau National Park,0.0,2013,MYS
+9260,Polygon,18251,18251,Samunsam,0.0,2000,MYS
+9264,Polygon,1300,1300,Lanjak Entimau,0.0,2013,MYS
+9265,Polygon,9821,9821,Sibuti,0.0,2000,MYS
+9266,Polygon,787,787,Gunung Mulu National Park,0.0,2011,MYS
+9267,Polygon,9819,9819,Pulong Tau National Park,0.0,2013,MYS
+9271,Polygon,14541,14541,Usun Apau National Park,0.0,2005,MYS
+9272,Polygon,14538,14538,Bruit National Park,0.0,2013,MYS
+9273,Polygon,18253,18253,Maludam National Park,0.0,2015,MYS
+9290,Polygon,8794,8794,Kulamba,0.0,2010,MYS
+9292,Polygon,10279,10279,Danum Valley,0.0,2012,MYS
+9303,Polygon,3406,3406,Kabili Sepilok,0.0,2010,MYS
+9309,Polygon,9878,9878,Lungmanis,0.0,2010,MYS
+9325,Polygon,9825,9825,Sungai Simpang & Simpang (Extension),0.0,2010,MYS
+9354,Polygon,3574,3574,Pelagat,0.0,2008,MYS
+9355,Polygon,3839,3839,Hulu Nerus,0.0,2008,MYS
+9356,Polygon,3822,3822,Bukit Kesing,0.0,2008,MYS
+9357,Polygon,3562,3562,Gunong Tebu,0.0,2008,MYS
+9358,Polygon,3827,3827,Jerangau,0.0,2008,MYS
+9359,Polygon,3825,3825,Jambu Bongkok,0.0,2008,MYS
+9360,Polygon,3821,3821,Bukit Bauk,0.0,2008,MYS
+9361,Polygon,3834,3834,Rasau Kertih,0.0,2008,MYS
+9362,Polygon,3826,3826,Jengai,0.0,2008,MYS
+9363,Polygon,3820,3820,Besul,0.0,2008,MYS
+9366,Polygon,3649,3649,Galla,0.0,2001,MYS
+9370,Polygon,3757,3757,Piah,0.0,2007,MYS
+9371,Polygon,3746,3746,Kledang Saiong,0.0,2007,MYS
+9372,Polygon,3743,3743,Ijok,0.0,2007,MYS
+9373,Polygon,3726,3726,Behrang,0.0,2007,MYS
+9374,Polygon,3730,3730,Bubu,0.0,2007,MYS
+9376,Polygon,3729,3729,Bintang Hijau,0.0,2007,MYS
+9377,Polygon,3662,3662,Senaling Inas,0.0,2001,MYS
+9378,Polygon,3526,3526,Bukit Larut,0.0,2007,MYS
+9379,Polygon,3747,3747,Korbu,0.0,2007,MYS
+9380,Polygon,3764,3764,Bukit Slim,0.0,2007,MYS
+9381,Polygon,3731,3731,Bukit Kinta,0.0,2007,MYS
+9382,Polygon,3719,3719,(Ulu) Teranum,0.0,2002,MYS
+9383,Polygon,3668,3668,Balok,0.0,2002,MYS
+9384,Polygon,3679,3679,Cherating,0.0,2002,MYS
+9385,Polygon,3701,3701,Rompin,0.0,2002,MYS
+9386,Polygon,3700,3700,Pontian,0.0,2002,MYS
+9387,Polygon,3671,3671,Bebar,0.0,2002,MYS
+9388,Polygon,3705,3705,Sungai Miang,0.0,2002,MYS
+9389,Polygon,3697,3697,Mentigi,0.0,2002,MYS
+9390,Polygon,3689,3689,Lakum,0.0,2002,MYS
+9391,Polygon,3686,3686,Kemasul,0.0,2002,MYS
+9392,Polygon,3682,3682,Jengka,0.0,2002,MYS
+9395,Polygon,3646,3646,Angsi,0.0,2001,MYS
+9396,Polygon,3690,3690,Lentang,0.0,2002,MYS
+9397,Polygon,3666,3666,Tebong,0.0,2001,MYS
+9398,Polygon,3661,3661,Pelangai,0.0,2001,MYS
+9399,Polygon,3561,3561,Gunung Pulai,0.0,2007,MYS
+9400,Polygon,3474,3474,Gunung Ledang,0.0,2007,MYS
+9401,Polygon,3559,3559,Gunung Arong,0.0,2008,MYS
+9402,Polygon,3572,3572,Mersing,0.0,2008,MYS
+9403,Polygon,3565,3565,Kluang,0.0,2008,MYS
+9404,Polygon,3568,3568,Labis,0.0,2008,MYS
+9408,Polygon,3774,3774,Ayer Hitam (Additional),0.0,2009,MYS
+9409,Polygon,3674,3674,"Bukit Beserah, Bukit Pelindung, Teluk Chempedak",0.0,2010,MYS
+9410,Polygon,3712,3712,Terenggun,0.0,2010,MYS
+9412,Polygon,3500,3500,Berembun,0.0,2001,MYS
+9413,Polygon,3550,3550,Banang,0.0,2007,MYS
+9415,Polygon,3587,3587,Ulu Sedili,0.0,2008,MYS
+9416,Polygon,3648,3648,Berembun,0.0,2008,MYS
+9417,Polygon,3773,3773,Pasoh,0.0,2008,MYS
+9418,Polygon,3665,3665,Sungai Menyala,0.0,2008,MYS
+9419,Polygon,3718,3718,Ulu Lemoi,0.0,2002,MYS
+9420,Polygon,3626,3626,Chabang Tongkat,0.0,2007,MYS
+9421,Polygon,3702,3702,"Sungai Sia, Batu Talam, Rotan Tunggal",0.0,2002,MYS
+9422,Polygon,3685,3685,"Rotan Tunggal, Kelau",0.0,2002,MYS
+9423,Polygon,3683,3683,Jerantut,0.0,2002,MYS
+9424,Polygon,3651,3651,Tampin,0.0,2008,MYS
+9425,Polygon,3678,3678,Bukit Tinggi,0.0,2002,MYS
+9426,Polygon,3715,3715,"Gunung Siku, Terla, Batu Gangan, Ulu Bertam, Mentigi, Ringlet",0.0,2002,MYS
+9428,Polygon,3597,3597,Chebar Besar,0.0,2007,MYS
+9429,Polygon,3624,3624,Ulu Muda,0.0,2007,MYS
+9430,Polygon,3613,3613,Pedu,0.0,2007,MYS
+9433,Polygon,3706,3706,"Batu Talam, Sungai Sia",0.0,2002,MYS
+9434,Polygon,3638,3638,Ulu Temiang,0.0,2007,MYS
+9435,Polygon,3627,3627,Jedok,0.0,2007,MYS
+9521,Polygon,13912,13912,Bear River Migratory,0.0,2000,USA
+9652,Polygon,3370,3370,Tambopata,0.0,2000,PER
+9660,Polygon,7219,7219,Central Cebu Protected Landscape,0.0,2007,PHL
+9662,Polygon,10325,10325,Magapit Protected Landscape,0.0,2000,PHL
+9667,Polygon,14753,14753,Malampaya Sound Protected Landscape,1121.71342,2000,PHL
+9684,Polygon,841,841,Mts. Banahaw-San Cristobal Protected Landscape,0.0,2009,PHL
+9810,Polygon,18232,18232,Silent Lake Provincial Park (Natural Environment Class),0.0,2000,CAN
+9823,Polygon,4168,4168_D,Whiteshell Provincial Park,0.0,2014,CAN
+10025,Polygon,14075,14075,Shoal Bay and Island Harbour Reefs,17.777684,2007,GBR
