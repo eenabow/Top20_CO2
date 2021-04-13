@@ -1,7 +1,9 @@
 // // PIE CHART FOR CO2 data 
 
 function d3PieChart(){
-  url = "/top20CO2"
+  url = "/top20CO2" 
+  // url = https://raw.githubusercontent.com/eenabow/Top20_CO2/main/data/CO2_data.csv?raw=true
+  // d3.csv instead of d3.json
   d3.json(url, function(data) {
       
       console.log(data);
@@ -266,3 +268,10 @@ function d3EnergyBar() {
   })
   };
   d3EnergyBar();
+
+
+
+  // RADIAL CHART FOR STATIC TOP 20 CO2 emission countries https://www.visualcinnamon.com/2015/10/different-look-d3-radar-chart/ 
+  // https://www.visualcinnamon.com/2013/09/making-d3-radar-chart-look-bit-better/
+
+  // MAKE THE PIE CHART COOLER INSTEAD? https://www.d3-graph-gallery.com/graph/pie_changeData.html
