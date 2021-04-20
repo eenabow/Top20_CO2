@@ -8,7 +8,7 @@ function populate_countryview(country_code) {
     .append("svg")
     .attr("width", svgWidth)
     .attr("height", svgHeight);
-
+    // Include bar chart that changes on click in d3 bonus solution
 }
 
 populate_countryview("AUS")
