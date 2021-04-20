@@ -15,7 +15,7 @@ function d3PieChart(){
       var radius = Math.min(width, height) / 2 - margin;
       console.log("here");
       // append the svg object to the div called 'pieChart'
-      var svg = d3.select(".pieChart")
+      var svg = d3.select("#myPieChart")
       .append("svg")
         .attr("width", width)
         .attr("height", height)

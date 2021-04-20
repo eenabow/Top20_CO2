@@ -12,13 +12,13 @@
     <title>Carbon Earth</title>
 
     <!-- Custom fonts for this template-->
-    <link href="../static/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="static/css/all.min.css" rel="stylesheet" type="text/css">
     <link
         href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
         rel="stylesheet">
 
     <!-- Custom styles for this template-->
-    <link href="../static/css/sb-admin-2.min.css" rel="stylesheet">
+    <link href="static/css/sb-admin-2.min.css" rel="stylesheet">
 
 
 </head>
@@ -34,7 +34,7 @@
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
                 <div class="sidebar-brand-icon rotate-n-15">
-                    <img src="../static/css/icons/globe.svg" alt="globe icon" height="" width="48">
+                    <img src="static/css/icons/globe.svg" alt="globe icon" height="" width="48">
                 </div>
                 <div class="sidebar-brand-text mx-3">CO<sup>2</sup> World</div>
             </a>
@@ -49,7 +49,7 @@
 
 
             <!-- Nav Item - Country Collapse Menu -->
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseCountry"
                     aria-expanded="true" aria-controls="collapseCountry">
                     <img src="../static/css/icons/compass.svg" alt="compass icon" height="20" width="20">
@@ -65,7 +65,13 @@
                         <a class="collapse-item" href="utilities-other.html">Other</a>
                     </div>
                 </div>
-            </li>
+            </li> -->
+            <h5>Choose a Country...</h5>
+            <select id="selDataset" onchange="optionChanged(this.value)">
+                <!-- <option value="USA">United States</option>
+                <option value="FRA">France</option>
+                <option value="RUS">Russia</option> -->
+            </select>
 
             <!-- Divider -->
             <hr class="sidebar-divider">
@@ -79,7 +85,7 @@
             <li class="nav-item">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages"
                     aria-expanded="true" aria-controls="collapsePages">
-                    <img src="../static/css/icons/database.svg" alt="database icon" height="20" width="20">
+                    <img src="static/css/icons/database.svg" alt="database icon" height="20" width="20">
                     <span>Data Sources</span>
                 </a>
                 <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
@@ -112,7 +118,7 @@
                         <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button"
                             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <span class="mr-2 d-none d-lg-inline text-gray-600 small">Anna Bowers</span>
-                            <img class="img-profile rounded-circle" src="../static/images/profile.jfif">
+                            <img class="img-profile rounded-circle" src="static/images/profile.jfif">
                         </a>
                         <!-- Dropdown - User Information -->
                         <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
@@ -186,7 +192,8 @@
                                         </div>
                                         <div class="col-auto">
                                             <!-- <i class="fas fa-dollar-sign fa-2x text-gray-300"></i> -->
-                                            <img src="../static/css/icons/dollar-sign.svg" alt="dollar icon" height="" width="20"></img>
+                                            <img src="static/css/icons/dollar-sign.svg" alt="dollar icon" height=""
+                                                width="20"></img>
                                         </div>
                                     </div>
                                 </div>
@@ -252,7 +259,9 @@
                                 <!-- Card Header - Dropdown -->
                                 <div
                                     class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                                    <h6 class="m-0 font-weight-bold text-primary"> <img src="../static/css/icons/map-pin.svg" alt="globe icon" height="" width="20"> CO<sup>2</sup> Choropleth</h6>
+                                    <h6 class="m-0 font-weight-bold text-primary"> <img
+                                            src="static/css/icons/map-pin.svg" alt="globe icon" height="" width="20">
+                                        CO<sup>2</sup> Choropleth</h6>
                                     <div class="dropdown no-arrow">
                                         <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink"
                                             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -326,8 +335,8 @@
                                 </div>
                                 <!-- Card Body -->
                                 <div class="card-body">
-                                    <div class="chart-area">
-                                        <canvas id="barchart"></canvas>
+                                    <div id="country_dashboard" class="chart-area">
+                                       
                                     </div>
                                 </div>
                             </div>
@@ -364,7 +373,8 @@
                                             </div>
                                         </div>
                                         <div class="col-auto">
-                                            <img src="../static/css/icons/dollar-sign.svg" alt="dollar icon" height="" width="20">
+                                            <img src="static/css/icons/dollar-sign.svg" alt="dollar icon" height=""
+                                                width="20">
                                         </div>
                                     </div>
                                 </div>
@@ -388,21 +398,31 @@
 
 
     <!-- Bootstrap core JavaScript-->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script> -->
 
     <!-- Core plugin JavaScript-->
-    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- <script src="vendor/jquery-easing/jquery.easing.min.js"></script> -->
 
     <!-- Custom scripts for all pages-->
-    <script src="js/sb-admin-2.min.js"></script>
+    <!-- <script src="js/sb-admin-2.min.js"></script> -->
 
     <!-- Page level plugins -->
-    <script src="vendor/chart.js/Chart.min.js"></script>
+    <!-- <script src="vendor/chart.js/Chart.min.js"></script> -->
 
     <!-- Page level custom scripts -->
-    <script src="js/demo/chart-area-demo.js"></script>
-    <script src="js/demo/chart-pie-demo.js"></script>
+    <!-- <script src="js/demo/chart-area-demo.js"></script>
+    <script src="js/demo/chart-pie-demo.js"></script> -->
+
+    <!-- Import D3 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+
+    <!-- Personal JS imports -->
+    <script src="static/js/countryview.js"></script>
+    <script src="static/js/index.js"></script>
+    <!-- <script src="static/js/index.js"></script> -->
+
+    
 
 </body>
 
